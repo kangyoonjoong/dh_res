@@ -1,0 +1,188 @@
+{ "skeleton": { "images": "C:/devil_res/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 216", "bone": "root" },
+	{ "name": "mantler", "bone": "root", "attachment": "mantler" },
+	{ "name": "shoulder_in", "bone": "root", "attachment": "shoulder_in" },
+	{ "name": "overcoat_in", "bone": "root", "attachment": "overcoat_in" },
+	{ "name": "leg_l_b", "bone": "root", "attachment": "leg_l_b" },
+	{ "name": "leg_l_c", "bone": "root", "attachment": "leg_l_c" },
+	{ "name": "leg_l_s", "bone": "root", "attachment": "leg_l_s" },
+	{ "name": "leg_r_b", "bone": "root", "attachment": "leg_r_b" },
+	{ "name": "leg_r_c", "bone": "root", "attachment": "leg_r_c" },
+	{ "name": "leg_r_s", "bone": "root", "attachment": "leg_r_s" },
+	{ "name": "pelvis", "bone": "root", "attachment": "pelvis" },
+	{ "name": "arm_l", "bone": "root", "attachment": "arm_l" },
+	{ "name": "weapon_gun", "bone": "root", "attachment": "weapon_gun" },
+	{ "name": "belt", "bone": "root", "attachment": "belt" },
+	{ "name": "body_side", "bone": "root", "attachment": "body_side" },
+	{ "name": "body_back", "bone": "root", "attachment": "body_back" },
+	{ "name": "overcoat_side", "bone": "root", "attachment": "overcoat_side" },
+	{ "name": "overcoat_back", "bone": "root", "attachment": "overcoat_back" },
+	{ "name": "scarf", "bone": "root", "attachment": "scarf" },
+	{ "name": "weapon_ax", "bone": "root", "attachment": "weapon_ax" },
+	{ "name": "arm_r", "bone": "root", "attachment": "arm_r" },
+	{ "name": "shoulder_l", "bone": "root", "attachment": "shoulder_l" },
+	{ "name": "shoulder_r", "bone": "root", "attachment": "shoulder_r" },
+	{ "name": "hood_side_fold", "bone": "root", "attachment": "hood_side_fold" },
+	{ "name": "head_side", "bone": "root", "attachment": "head_side" },
+	{ "name": "head_front", "bone": "root" },
+	{ "name": "head_back", "bone": "root" },
+	{ "name": "mask_side", "bone": "root" },
+	{ "name": "head_earring", "bone": "root", "attachment": "head_earring" },
+	{ "name": "mouth_side_1", "bone": "root", "attachment": "mouth_side_1" },
+	{ "name": "eye_side_r", "bone": "root", "attachment": "eye_side_r" },
+	{ "name": "eye_side_l", "bone": "root", "attachment": "eye_side_l" },
+	{ "name": "pupil_side_l", "bone": "root", "attachment": "pupil_side_l" },
+	{ "name": "pupil_side_r", "bone": "root", "attachment": "pupil_side_r" },
+	{ "name": "eye_front_l", "bone": "root" },
+	{ "name": "eye_front_r", "bone": "root" },
+	{ "name": "pupil_front_l", "bone": "root" },
+	{ "name": "pupil_front_r", "bone": "root" },
+	{ "name": "hair_side", "bone": "root", "attachment": "hair_side" },
+	{ "name": "hair_front", "bone": "root" },
+	{ "name": "hair_back", "bone": "root" },
+	{ "name": "hod_side", "bone": "root", "attachment": "hod_side" },
+	{ "name": "hood_front", "bone": "root", "attachment": "hood_front" },
+	{ "name": "hood_back_fold", "bone": "root", "attachment": "hood_back_fold" }
+],
+"skins": {
+	"default": {
+		"Layer 216": {
+			"Layer 216": { "x": 571, "y": -502.5, "width": 1152, "height": 1015 }
+		},
+		"mantler": {
+			"mantler": { "x": 262, "y": -514, "width": 534, "height": 612 }
+		},
+		"shoulder_in": {
+			"shoulder_in": { "x": 587, "y": -349.5, "width": 186, "height": 113 }
+		},
+		"overcoat_in": {
+			"overcoat_in": { "x": 461.5, "y": -560.5, "width": 439, "height": 213 }
+		},
+		"leg_l_b": {
+			"leg_l_b": { "x": 626.5, "y": -724, "width": 289, "height": 454 }
+		},
+		"leg_l_c": {
+			"leg_l_c": { "x": 617, "y": -724.5, "width": 270, "height": 455 }
+		},
+		"leg_l_s": {
+			"leg_l_s": { "x": 626.5, "y": -724, "width": 289, "height": 454 }
+		},
+		"leg_r_b": {
+			"leg_r_b": { "x": 332, "y": -733.5, "width": 334, "height": 481 }
+		},
+		"leg_r_c": {
+			"leg_r_c": { "x": 340.5, "y": -730, "width": 315, "height": 474 }
+		},
+		"leg_r_s": {
+			"leg_r_s": { "x": 329, "y": -735, "width": 338, "height": 484 }
+		},
+		"pelvis": {
+			"pelvis": { "x": 494, "y": -518.5, "width": 240, "height": 159 }
+		},
+		"arm_l": {
+			"arm_l": { "x": 697.5, "y": -268.5, "width": 425, "height": 129 }
+		},
+		"weapon_gun": {
+			"weapon_gun": { "x": 972.5, "y": -232, "width": 349, "height": 144 }
+		},
+		"belt": {
+			"belt": { "x": 472, "y": -545, "width": 306, "height": 176 }
+		},
+		"body_side": {
+			"body_side": { "x": 474, "y": -379.5, "width": 234, "height": 331 }
+		},
+		"body_back": {
+			"body_back": { "x": 476, "y": -386, "width": 236, "height": 322 }
+		},
+		"overcoat_side": {
+			"overcoat_side": { "x": 447.5, "y": -464.5, "width": 483, "height": 521 }
+		},
+		"overcoat_back": {
+			"overcoat_back": { "x": 453.5, "y": -458.5, "width": 435, "height": 493 }
+		},
+		"scarf": {
+			"scarf": { "x": 500, "y": -326.5, "width": 154, "height": 253 }
+		},
+		"weapon_ax": {
+			"weapon_ax": { "x": 402.5, "y": -779, "width": 525, "height": 462 }
+		},
+		"arm_r": {
+			"arm_r": { "x": 309.5, "y": -455.5, "width": 247, "height": 399 }
+		},
+		"shoulder_l": {
+			"shoulder_l": { "x": 584, "y": -308, "width": 206, "height": 228 }
+		},
+		"shoulder_r": {
+			"shoulder_r": { "x": 322.5, "y": -353, "width": 317, "height": 282 }
+		},
+		"hood_side_fold": {
+			"hood_side_fold": { "x": 466, "y": -252, "width": 324, "height": 282 }
+		},
+		"head_side": {
+			"head_side": { "x": 461.5, "y": -168.5, "width": 159, "height": 177 }
+		},
+		"head_front": {
+			"head_front": { "x": 468, "y": -167, "width": 148, "height": 178 }
+		},
+		"head_back": {
+			"head_back": { "x": 461.5, "y": -172, "width": 159, "height": 184 }
+		},
+		"mask_side": {
+			"mask_side": { "x": 458, "y": -209.5, "width": 140, "height": 97 }
+		},
+		"head_earring": {
+			"head_earring": { "x": 423.5, "y": -227, "width": 45, "height": 60 }
+		},
+		"mouth_side_1": {
+			"mouth_side_1": { "x": 491, "y": -237.5, "width": 32, "height": 21 }
+		},
+		"eye_side_r": {
+			"eye_side_r": { "x": 470.5, "y": -196, "width": 71, "height": 42 }
+		},
+		"eye_side_l": {
+			"eye_side_l": { "x": 514, "y": -195, "width": 36, "height": 48 }
+		},
+		"pupil_side_l": {
+			"pupil_side_l": { "x": 514, "y": -199.5, "width": 20, "height": 21 }
+		},
+		"pupil_side_r": {
+			"pupil_side_r": { "x": 471.5, "y": -199, "width": 27, "height": 22 }
+		},
+		"eye_front_l": {
+			"eye_front_l": { "x": 496.5, "y": -181, "width": 67, "height": 70 }
+		},
+		"eye_front_r": {
+			"eye_front_r": { "x": 439.5, "y": -181, "width": 67, "height": 70 }
+		},
+		"pupil_front_l": {
+			"pupil_front_l": { "x": 493, "y": -196.5, "width": 30, "height": 25 }
+		},
+		"pupil_front_r": {
+			"pupil_front_r": { "x": 443, "y": -196.5, "width": 30, "height": 25 }
+		},
+		"hair_side": {
+			"hair_side": { "x": 461, "y": -147.5, "width": 192, "height": 165 }
+		},
+		"hair_front": {
+			"hair_front": { "x": 466, "y": -147, "width": 180, "height": 162 }
+		},
+		"hair_back": {
+			"hair_back": { "x": 461, "y": -159.5, "width": 192, "height": 189 }
+		},
+		"hod_side": {
+			"hod_side": { "x": 486.5, "y": -208.5, "width": 365, "height": 427 }
+		},
+		"hood_front": {
+			"hood_front": { "x": 468, "y": -221.5, "width": 438, "height": 423 }
+		},
+		"hood_back_fold": {
+			"hood_back_fold": { "x": 461.5, "y": -257, "width": 313, "height": 272 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
